@@ -1,0 +1,19 @@
+.card:hover img{
+    transform: scale(1.1);
+    transition: 1s;
+    cursor: grab;
+}
+
+img{
+    transition: 1.1s ease;
+}
+
+.eye:hover{
+    color:rgb(200, 232, 153)
+    
+}
+
+.cart:hover{
+    color: rgb(200, 232, 153);
+    
+}

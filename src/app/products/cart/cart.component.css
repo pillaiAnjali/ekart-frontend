@@ -1,0 +1,7 @@
+.cartBtn{
+  border-radius: 2rem;
+  border: 0px solid black;
+  box-shadow: 0 0 5px;
+  
+  font-weight: bolder;
+}
